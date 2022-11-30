@@ -1,0 +1,13 @@
+.my-navbar {
+    padding: .5em 0;
+    font-size: .8em;
+    background: rgba(11, 11, 11, .9);
+    text-align: center;
+    li a {
+        color: #f1f1f1;
+        text-decoration: none;
+        &:hover {
+            font-weight: bold;
+        }
+    }
+}

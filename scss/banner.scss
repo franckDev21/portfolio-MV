@@ -1,0 +1,21 @@
+.banner {
+    background: {
+        image: url("../img/background.png");
+        size: cover;
+        repeat: no-repeat;
+        attachment: fixed;
+    }
+    color: #f1f1f1;
+    margin-bottom: -203px;
+    margin-top: -101px;
+    padding: 50vh 0;
+
+    .arrow-down {
+        color: rgba(#FFF, .8);
+        font-size: 3em;
+        position: absolute;
+        top: 80vh;
+    }
+}
+
+

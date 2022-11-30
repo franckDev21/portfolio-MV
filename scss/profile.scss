@@ -1,0 +1,27 @@
+.profile {
+    &-img {
+        width: 18em;
+        height: 18em;
+        border-radius: 50%;
+        border: solid 10px #dfe4ea;
+        margin: 0 auto;   
+    }
+    .card {
+        padding: 4em 1em;
+    }
+
+    .about {
+        font-size: 1.2em;
+        font-weight: bold;
+        margin-top: 2em;
+        margin-bottom: 2em;
+    }
+
+    .social {
+        font-size: 2em;
+        li {
+            display: inline-block;
+            margin: 0 10px 0 10px;
+        }
+    }
+}

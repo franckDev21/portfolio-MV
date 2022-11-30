@@ -1,0 +1,28 @@
+.skill {
+    padding: .9em;
+}
+
+.courses li {
+    cursor: pointer;
+}
+
+.badge {
+    font-size: .8em;
+}
+
+#skills {
+    margin-top: 3em;
+}
+
+@media (min-width: 992px) {
+    #skills {
+        margin-top: 0em;
+    }
+    .skill-score {
+        float: right;
+        width: 50%;
+    }
+    .skills-container {
+        text-align: left;
+    }
+}
