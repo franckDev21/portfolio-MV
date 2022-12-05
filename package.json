@@ -13,9 +13,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/marciaibanez/marciaibanez.github.io/issues"
+    "url": "https://github.com/hell59"
   },
-  "homepage": "https://github.com/marciaibanez/marciaibanez.github.io#readme",
+  "homepage": "https://github.com/hell59",
   "devDependencies": {
     "browser-sync": "^2.23.6",
     "gulp": "^3.9.1",
